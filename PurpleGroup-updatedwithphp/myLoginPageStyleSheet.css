@@ -1,0 +1,59 @@
+/*CSS Style sheet*/
+
+#main-wrapper{
+    width: 500px;
+    margin: 0 auto;
+    background: white;
+    padding: 5px;
+}
+
+.PHPmySQL{
+    width:150px;
+    text-align: center;
+}
+
+.MyForm{
+    wideth: 450px;
+    margin: 0 auto;
+}
+
+.inputvalues{
+    width: 430px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+#login_btn{
+    margin-top: 10px;
+    background-color: #27ae60;
+    padding: 5px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    font-size: 18px;
+    font-width: bold;
+}
+
+#register_btn{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: #27ae60;
+    padding: 5px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    font-size: 18px;
+    font-width: bold;
+}
+
+#return_to_login_btn{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: #27ae60;
+    padding: 5px;
+    color: white;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    font-width: bold;
+}
