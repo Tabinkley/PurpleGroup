@@ -6,7 +6,7 @@ Login and Registration Moudule v1.0
 Programers:
 Tabitha Binkley
 Tyson Cruz
-Mathew McSpadden
+Matthew McSpadden
 
 last updated 11/4/2018
 
