@@ -1,3 +1,4 @@
+![status](https://img.shields.io/badge/status-In%20Development-orange.svg)  
 # PurpleGroup
 School project to setup a [PHP WebApp](https://clcwk1webapp.azurewebsites.net) that is a blog.
 
