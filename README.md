@@ -1,5 +1,7 @@
 # PurpleGroup
-School project to setup a PHP WebApp that is a blog.
+School project to setup a [PHP WebApp](https://clcwk1webapp.azurewebsites.net) that is a blog.
 
 # Contributors
-Matthew/Tabitha/Tyson
+Matthew McSpadden - [mcspadden](https://github.com/mcspadden)   
+Tabitha Binkley - [Tabinkley](https://github.com/Tabinkley)  
+Tyson Cruz - [TMCRUZ24](https://github.com/TMCRUZ24)  
