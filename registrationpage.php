@@ -25,7 +25,6 @@ submit button that links to the registration.inc.php file. */
     <meta charset="UTF-8">
     <title>Registration Page</title>
 
-    <link rel = "Stylesheet" href = "myLoginPageStyleSheet.css">
     <link rel = "stylesheet" href = "style.css">
 </head>
 <body style="background-color: #1abc9c">
