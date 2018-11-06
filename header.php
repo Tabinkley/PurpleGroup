@@ -40,7 +40,7 @@ and changes to a logout button linking to the logout.inc.php.
         </a>
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="#">Blog</a></li>
+          <li><a href="mainblogpage.php">Latest Blog</a></li>
           <li><a href="#">About me</a></li>
           <li><a href="#">Contact</a></li>
         </ul>

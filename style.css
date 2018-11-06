@@ -192,8 +192,20 @@ h1 {
   color: green;
   text-align: center;
 }
+/*my blogpagestylesheet*/
 
-/*MyLoginPage style sheet */
+#main-blog-wrapper{
+    margin: 0 auto;
+    background: white;
+    padding: 10px;
+    alignment: left;
+}
+
+subjectField{
+    padding: 10px;
+}
+
+/*myloginpagestylesheet*/
 
 #main-wrapper{
     width: 500px;
@@ -251,19 +263,4 @@ h1 {
     text-align: center;
     font-size: 18px;
     font-width: bold;
-}
-
-/*myBlogPageStyleSheet*/
-
-
-
-#main-blog-wrapper{
-    margin: 0 auto;
-    background: white;
-    padding: 10px;
-    alignment: left;
-}
-
-subjectField{
-    padding: 10px;
 }

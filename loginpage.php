@@ -26,7 +26,7 @@ require "header.php";
     <meta charset="UTF-8">
     <title>Login Page</title>
 
-    <link rel = "Stylesheet" href = "myLoginPageStyleSheet.css">
+    <link rel = "Stylesheet" href = "style.css">
 </head>
 <body style="background-color: #1abc9c">
 

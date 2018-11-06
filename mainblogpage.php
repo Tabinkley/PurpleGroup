@@ -10,7 +10,7 @@ require "header.php";
     <meta charset="UTF-8">
     <title>My Blogs</title>
 
-    <link rel = "Stylesheet" href = "myBlogPageStyleSheet.css">
+    <link rel = "Stylesheet" href = "style.css">
 </head>
 <body style="background-color: #1abc9c">
 
