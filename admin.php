@@ -2,7 +2,7 @@
 
 /*
 Purple Group Project v1.3
-Module v1.0
+Module v3.0
 
 Programers:
 Tabitha Binkley
@@ -11,7 +11,8 @@ Matthew McSpadden
 
 last updated 11/11/2018
 
-This module is a system for admin features.
+This module is a system for registering and logining in as a user by default but also allows for an admin with privleges such as viewing
+what users have registered with this system, posting blogs that viewers can see and editing and deleteing posts.
 
 This is the admin page that sets the foundation for all admin features, panels, etc. 
 */
