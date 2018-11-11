@@ -1,4 +1,19 @@
 <?php
+
+/*
+Purple Group Project v1.3
+View Blog Moudule v1.0
+
+Programers:
+Tabitha Binkley
+Tyson Cruz
+Matthew McSpadden
+
+last updated 11/11/2018
+
+This module is a system for admin features.
+*/
+
 require "header.php";
 //This sends those without admin privleges back to the index page.
 if (!$_SESSION['role'] == 1) {
