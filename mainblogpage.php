@@ -39,7 +39,7 @@ if (!$_SESSION['role'] == 1) {
                     }
                     mysqli_query($conn, $sql);
 
-                    header("Location: index.php");
+                    header("Location: blogViewPage.php");
 
         }
         ?>
