@@ -2,7 +2,7 @@
 
 /*
 Purple Group Project v1.3
-View Blog Moudule v1.0
+Module v1.0
 
 Programers:
 Tabitha Binkley
