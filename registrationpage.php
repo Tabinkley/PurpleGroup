@@ -1,12 +1,12 @@
 <?php
 /*
-Purple Group Project v1.2
-View Blog Moudule v2.0
+Purple Group Project v1.1
+View Blog Moudule v1.0
 
 Programers:
 Tabitha Binkley
 Tyson Cruz
-Matthew McSpadden
+Mathew McSpadden
 
 last updated 11/9/2018
 
