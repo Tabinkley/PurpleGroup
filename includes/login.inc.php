@@ -1,13 +1,13 @@
 <?php
 
 /*
-Purple Group Project v1.2
+Purple Group Project v1.1
 View Blog Moudule v1.0
 
 Programers:
 Tabitha Binkley
 Tyson Cruz
-Matthew McSpadden
+Mathew McSpadden
 
 last updated 11/9/2018
 
@@ -79,6 +79,8 @@ starts a session under for that user.
           $_SESSION['id'] = $row['idUsers'];
           $_SESSION['uid'] = $row['uidUsers'];
           $_SESSION['email'] = $row['emailUsers'];
+//This variable will be 0 by default. Roles set to 1 will be allowed admin privleges
+          $_SESSION['role'] = $row['roleUsers'];
 
           header("Location: ../index.php?login=success");
           exit();
