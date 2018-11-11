@@ -12,6 +12,8 @@ Matthew McSpadden
 last updated 11/11/2018
 
 This module is a system for admin features.
+
+This is the admin page that sets the foundation for all admin features, panels, etc. 
 */
 
 require "header.php";
