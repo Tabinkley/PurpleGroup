@@ -1,4 +1,18 @@
 <?php
+/*
+Purple Group Project v1.3
+Module v1.0
+
+Programers:
+Tabitha Binkley
+Tyson Cruz
+Matthew McSpadden
+
+last updated 11/11/2018
+
+This page allows an admin to delete a post. 
+*/
+
   session_start();
   include_once("includes/dbh.inc.php");
 
