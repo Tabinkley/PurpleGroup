@@ -1,6 +1,6 @@
 <?php
 /*
-Purple Group Project v1.2
+Purple Group Project v1.3
 View Admin Page Moudule v1.0
 
 Programers:
