@@ -1,6 +1,6 @@
 <?php
 /*
-Purple Group Project v2.1
+Purple Group Project v1.2
 View Blog Moudule v2.0
 
 Programers:
