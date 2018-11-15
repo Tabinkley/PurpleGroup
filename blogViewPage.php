@@ -1,19 +1,16 @@
 <?php
 /*
-Purple Group Project v1.3
-Module v3.0
+Purple Group Project v1.1
+View Blog Moudule v1.0
 
 Programers:
 Tabitha Binkley
 Tyson Cruz
-Matthew McSpadden
+Mathew McSpadden
 
-last updated 11/11/2018
+last updated 11/9/2018
 
-This module is a system for registering and logining in as a user by default but also allows for an admin with privleges such as viewing
-what users have registered with this system, posting blogs that viewers can see and editing and deleteing posts.
-
-This is the page to view blog posts.
+This module is a system for registering users and allowing them to login. It also allows users to enter blogs into a database and veiw them.
 */
 require "header.php";
 require "includes/dbh.inc.php"
@@ -57,6 +54,8 @@ require "includes/dbh.inc.php"
           $date = $row['date'];
 
           $output = $bbcode ->Parse($message);
+          if(strlen($output)>500){
+              $output=substr($output,0,500)."... <a href='view_post.php?pid=$id'>Read more";
           $posts .= "<h2>$subject<h2>
                       <h3>$date</h3>
                       <br><br>
